@@ -1,6 +1,4 @@
-# =====================
 #  Packet sniffer
-# =====================
 
 ### 1. Create a Python virtual environment (using Python 3)
 ```bash
@@ -28,7 +26,7 @@
     python3 main.py
 ```
 
-### 6. Activate the virtual environment
+### 6. Deactivate the virtual environment
 ```bash
     deactivate
 ```
